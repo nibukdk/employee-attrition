@@ -60,14 +60,15 @@ The data is publicly available in kaggle @ https://www.kaggle.com/colearningloun
 
 ### Correlation Between Features
 
-[!img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Correlation%20Heatmap.png)
+![img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Correlation%20Heatmap.png)
 
 Lets see as expected job level has postive and higher correlation with other features like years expeirence, monthly income and the department people are working on. 
 
 Looks like relationship with current manager gives a good boost on your chances for your current role and you continue on having your job. 
 
 ### Distribution Plot
-[!img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Distribution%20Plot.png)
+
+![img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Distribution%20Plot.png)
 
 Unfortunately, it seems the values are quite mixed to be sure. But if we look closely, attrition(value "Yes") are higher for employess with lesser monthly income, less total_working_years. And if we check age column either younger employees who are just starting thier career or older employees at retiring age are more likely to leave company than the middle aged ones. 
 

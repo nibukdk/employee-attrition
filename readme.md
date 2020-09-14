@@ -95,5 +95,7 @@ Attrition = Yes |  Attirion = No
 ![img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Satisfaction_Lvls_n_Attrition_Yes.png) | ![img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Satisfaction_Lvls_n_Attrition_No.png)
 
 
+Hi, thank you for reading so far. I am attemting on using PCA and Different machine learning models. If u want to read codes and updates on detail please check version updates on my kaggle profile @ https://www.kaggle.com/nibukdk93/employee-attrition-random-forest.
+
 
 

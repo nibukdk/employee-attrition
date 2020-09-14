@@ -68,9 +68,32 @@ Looks like relationship with current manager gives a good boost on your chances 
 
 ### Distribution Plot
 
+Histogram plots to check if some properites are sure fire way to distinguish attrition, but lets first drop this employee count column it has only one value.
+
+
 ![img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Distribution%20Plot.png)
 
 Unfortunately, it seems the values are quite mixed to be sure. But if we look closely, attrition(value "Yes") are higher for employess with lesser monthly income, less total_working_years. And if we check age column either younger employees who are just starting thier career or older employees at retiring age are more likely to leave company than the middle aged ones. 
 
 Interestingly if u check that num_of_companies worked, chances of leaving or staying are same as the number of companies increases.
+
+
+### Qualification, Experice and Salary
+
+![img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Employee_Qualifications_n_Salary.png)
+
+Salary does increase with qualifications. But college graduates seems to have more salary with less experience in comparision to those bachelor's degree. 
+
+
+### Satisfaction LVL vs Attrition
+
+
+
+
+Attrition = Yes |  Attirion = No
+:-------------------------:|:-------------------------:
+![img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Satisfaction_Lvls_n_Attrition_Yes.png) | ![img](https://github.com/nibukdk/employee-attrition/blob/master/Imgs/Satisfaction_Lvls_n_Attrition_No.png)
+
+
+
 
